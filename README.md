@@ -21,4 +21,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cybermaique&" alt="cybermaique" /></p>
 
 ## Spotify Playing
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22vy55fevixmbqoqctzsz2vui)
+![Pearl Jam](https://spotify-recently-played-readme.vercel.app/api?user=22vy55fevixmbqoqctzsz2vui)
