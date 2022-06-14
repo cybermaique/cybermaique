@@ -19,3 +19,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cybermaique&show_icons=true&locale=en" alt="cybermaique" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cybermaique&" alt="cybermaique" /></p>
+
+## Spotify Playing
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22vy55fevixmbqoqctzsz2vui)
