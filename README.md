@@ -16,12 +16,6 @@
 [![Gmail](https://camo.githubusercontent.com/d2943ffbe7f2fdcb129e0ba1a50001284494cd25190500f379699fb299b27b50/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d4646303030303f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d464630303030266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)](mailto:maiqued.18@gmail.com)
 </div>
 
-<br/>
-
-<h2 align="center">⚙️ GitHub Analytics</h2> 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cybermaique&" height="150" alt="Estatísticas do perfil"  />
-</div>
 
 <br/>
 
