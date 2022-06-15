@@ -1,11 +1,11 @@
 
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="3px" height="30"px>, eu sou o Maique! 😁</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="3px" height="30"px>, I'm Maique! 😁</h1>
 
-👨‍💻 Cursei Engenharia por três anos até descobrir minha **paixão**: desenvolvimento de **softwares** e **aplicativos**. 
+👨‍💻 I studied Engineering for three years until I discovered my passion: software and application development.
 
-🔥 Sou entusiasta por **tecnologia** e os meus principais hobbies são **desenvolver** e praticar esportes radicais.
+🔥 I'm a technology enthusiast and my main hobbies are developing and practicing extreme sports.
 
-⚡ Adoro novos desafios. Fique a vontade para entrar em contato comigo para esclarecer qualquer dúvida ou dar alguma sugestão! 
+⚡ I love new challenges. Feel free to contact me with any questions or suggestions!
 
 
 <div align="center">
