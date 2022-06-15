@@ -1,5 +1,13 @@
+
+<align="center">Olá, eu sou o **Maique**! 😁</align>
+Moro em Porto Alegre/RS.
+
+Sou entusiasta por **tecnologia** e os meus principais hobbys são **desenvolver** e praticar esportes radicais.
+
+Cursei Engenharia por três anos até descobrir minha **paixão**: desenvolvimento de **softwares** e **aplicativos**. 
+
+
 <div align="center">
-<h1 align="center">Olá, eu sou o Maique! 😁<h1>
   
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maique-doglas-moraes-da-silva-387735211/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5551983518820&text=Ol%C3%A1%20Maique!%20Vim%20do%20seu%20perfil%20do%20GitHub.)
