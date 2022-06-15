@@ -1,12 +1,12 @@
 
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="3px" height="30"px>, eu sou o Maique! 😁</h1>
-<p>Moro em Porto Alegre/RS.
+Moro em Porto Alegre/RS.
 
-Cursei Engenharia por três anos até descobrir minha **paixão**: desenvolvimento de **softwares** e **aplicativos**. </p>
+👨‍💻Cursei Engenharia por três anos até descobrir minha **paixão**: desenvolvimento de **softwares** e **aplicativos**. 
 
-Sou entusiasta por **tecnologia** e os meus principais hobbies são **desenvolver** e praticar esportes radicais.
+🔥 Sou entusiasta por **tecnologia** e os meus principais hobbies são **desenvolver** e praticar esportes radicais.
 
-Adoro novos desafios. Fique a vontade para entrar em contato comigo para esclarecer qualquer dúvida ou dar alguma sugestão! 
+⚡ Adoro novos desafios. Fique a vontade para entrar em contato comigo para esclarecer qualquer dúvida ou dar alguma sugestão! 
 
 
 <div align="center">
@@ -20,7 +20,7 @@ Adoro novos desafios. Fique a vontade para entrar em contato comigo para esclare
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cybermaique&" height="150" alt="Estatísticas do perfil"  />
 </div>
 
-  <h2 align="center"> Principais tecnologias que eu utilizo</h2>
+  <h2 align="center">🛠 Principais tecnologias que eu utilizo</h2>
 
 <div style="display: inline_block" align="center">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
