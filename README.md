@@ -3,8 +3,9 @@
   
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maique-doglas-moraes-da-silva-387735211/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5551983518820&text=Ol%C3%A1%20Maique!%20Vim%20do%20seu%20perfil%20do%20GitHub.)
+[![Gmail](https://camo.githubusercontent.com/d2943ffbe7f2fdcb129e0ba1a50001284494cd25190500f379699fb299b27b50/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d4646303030303f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d464630303030266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)](mailto:maiqued.18@gmail.com?subject=%5BGitHub%5D%20Acabei%20de%20ver%20o%20seu%20GitHub)
 </div>
-
+  
 ###
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cybermaique&" height="150" alt="Estatísticas do perfil"  />
@@ -21,6 +22,7 @@
   <img align="center" alt="reactnative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="amazonws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img align="center" alt="firebase" src="https://camo.githubusercontent.com/bac5c7f45fe7c116b5f8c9d61c4611b31f635301a841bf8dcf1b89b8fcfa4824/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652d6666636132383f7374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365266c6f676f436f6c6f723d626c61636b" />
   
   
 
