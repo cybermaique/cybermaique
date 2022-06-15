@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá, eu sou o Maique! 😁</h1>
+<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="3px" height="30"px>, eu sou o Maique! 😁</h1>
 <p>Moro em Porto Alegre/RS.
 
 Cursei Engenharia por três anos até descobrir minha **paixão**: desenvolvimento de **softwares** e **aplicativos**. </p>
