@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="3px" height="30"px>, I'm Maique! 😁</h1>
 
-👨‍💻 I'm from Brazil (🇧🇷), I trust in the web and work for make it better!
+👨‍💻 I'm from Brazil (🇧🇷), developer and passionate about the React ecosystem.
 
 🔥 I'm a technology enthusiast and my main hobbies are developing and practicing extreme sports.
 
