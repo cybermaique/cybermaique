@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="3px" height="30"px>, I'm Maique! 😁</h1>
+<h1 align="center">Hi 🤝, I'm Maique! 😁</h1>
 
 👨‍💻 I'm from Brazil (🇧🇷), developer and passionate about the React ecosystem.
 
