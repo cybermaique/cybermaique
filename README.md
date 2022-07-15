@@ -1,5 +1,10 @@
 
-<h1 align="center">Hi 🤝, I'm Maique! 😁</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Maique!+😁;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+  
 
 👨‍💻 I'm from Brazil (🇧🇷), developer and passionate about the React ecosystem.
 
