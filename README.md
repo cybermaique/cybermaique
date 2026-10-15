@@ -23,7 +23,7 @@ Most of my production code lives in private company repositories. Here's what's 
 
 - **[maique-moraes](https://github.com/cybermaique/maique-moraes)**: the source of my website. Next.js 16, React 19, TypeScript, English and Portuguese, interactive diagrams, Playwright and axe tests.
 - **[repopilot-ai](https://github.com/cybermaique/repopilot-ai)**: an evidence workspace for exploring repositories. You ask a question, then open the cited file at the exact snapshot and lines. Early stage; runs locally.
-- **[TruckTracker](https://github.com/cybermaique/Desafio-Inlog---Vaga-Frontend-Developer)**: a take-home challenge. A React and TypeScript fleet app with Leaflet maps, proximity sorting, and tests. [Live demo](https://trucktracker-inlog.vercel.app).
+- **[TruckTracker](https://github.com/cybermaique/trucktracker)**: a take-home challenge. A React and TypeScript fleet app with Leaflet maps, proximity sorting, and tests. [Live demo](https://trucktracker-inlog.vercel.app).
 
 ### Writing
 
