@@ -21,7 +21,7 @@ Three problems from production, and the decisions behind them:
 
 Most of my production code lives in private company repositories. Here's what's public:
 
-- **[maique-moraes](https://github.com/cybermaique/maique-moraes)**: the source of my website. Next.js 16, React 19, TypeScript, English and Portuguese, interactive diagrams, Playwright and axe tests.
+- **[maique-moraes-portfolio](https://github.com/cybermaique/maique-moraes-portfolio)**: the source of my website. Next.js 16, React 19, TypeScript, English and Portuguese, interactive diagrams, Playwright and axe tests.
 - **[repopilot-ai](https://github.com/cybermaique/repopilot-ai)**: an evidence workspace for exploring repositories. You ask a question, then open the cited file at the exact snapshot and lines. Early stage; runs locally.
 - **[TruckTracker](https://github.com/cybermaique/trucktracker)**: a take-home challenge. A React and TypeScript fleet app with Leaflet maps, proximity sorting, and tests. [Live demo](https://trucktracker-inlog.vercel.app).
 
@@ -31,6 +31,6 @@ Most of my production code lives in private company repositories. Here's what's 
 
 ### How I work with AI
 
-I use Claude Code, Codex, and GitHub Copilot every day to explore code, test, and review, and I stay accountable for every line that ships. My website was built this way. Its [agent instructions and commit history](https://github.com/cybermaique/maique-moraes) are public.
+I use Claude Code, Codex, and GitHub Copilot every day to explore code, test, and review, and I stay accountable for every line that ships. My website was built this way. Its [agent instructions and commit history](https://github.com/cybermaique/maique-moraes-portfolio) are public.
 
 <sub>João Pessoa, Brazil · UTC−3 · Flexible hours for overlap with teams in the Americas and Europe</sub>
